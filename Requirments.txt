@@ -1,0 +1,7 @@
+langchain
+langchainhub
+langchain_community
+langchain-huggingface
+faiss-gpu
+transformers
+accelerate
